@@ -283,22 +283,6 @@ Useful for dashboard demos.
 
 ---
 
-# 🚀 9. Deployment (Backend)
-
-### Option A — Render (recommended)
-
-1. Push repo → GitHub
-2. Create **Render Web Service** → Point to `backend/`
-3. Add env vars
-4. Add Postgres database
-5. Deploy
-
-### Option B — Docker
-
-I can generate the Dockerfile + docker-compose file on request.
-
----
-
 # 🧹 10. Common Commands
 
 | Action              | Command                                 |
