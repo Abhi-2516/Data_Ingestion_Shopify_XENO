@@ -67,8 +67,8 @@ This **README** acts as the **single source of documentation** for submission. I
 | Insights Dashboard                    | ✅ Orders chart, revenue, top customers, recent orders |
 | Auth + tenant selector                | ✅ Email/password login                                |
 | Documentation                         | ✅ Included here                                       |
-| Next‑steps for productionization      | ✅ Included                                            |
-| Deployment ready                      | ⚠️ Pending (instructions included)                    |
+| Next‑steps for productionization      | ✅ Included                                            
+              
 
 ---
 
