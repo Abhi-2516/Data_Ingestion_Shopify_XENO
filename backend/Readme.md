@@ -283,7 +283,7 @@ Useful for dashboard demos.
 
 ---
 
-# 🧹 10. Common Commands
+# 🧹 9. Common Commands
 
 | Action              | Command                                 |
 | ------------------- | --------------------------------------- |
