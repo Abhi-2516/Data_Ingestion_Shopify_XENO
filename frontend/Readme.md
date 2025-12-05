@@ -221,40 +221,5 @@ Dashboard refreshes automatically.
 
 ---
 
-# 🚀 10. Deployment Guide
 
-### Deploy on **Vercel** (recommended)
-
-1. Push project → GitHub
-2. In Vercel:
-
-   * Create new project → Select `frontend/`
-   * Set environment variable:
-
-     ```
-     REACT_APP_API_URL=https://your-backend-host.com/api
-     ```
-3. Deploy
-4. Test login + dashboard
-
-### Backend must already be deployed (Render / Railway / AWS)
-
----
-
-# 🧹 11. Build for production
-
-```
-npm run build
-```
-
-Generates optimized static bundle in `build/`.
-
-You can host this in:
-
-* Vercel
-* Netlify
-* S3 + CloudFront
-* Any static hosting platform
-
----
 
