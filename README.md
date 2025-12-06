@@ -246,6 +246,10 @@ Downloads a CSV file.
 ---
 
 # 🎨 7. User Interface
+![User Interface](u1.png)
+![User Interface](u2.png)
+![User Interface](u3.png)
+
 
 
 
