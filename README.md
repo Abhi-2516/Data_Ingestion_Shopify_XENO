@@ -243,8 +243,16 @@ Downloads a CSV file.
 * Simulate order button (testing webhooks)
 
 ---
+---
 
-# 🧪 7. Running Locally
+# 🎨 7. User Interface
+
+
+
+---
+
+
+# 🧪 8. Running Locally
 
 ## Backend
 
@@ -271,7 +279,7 @@ REACT_APP_API_URL=http://localhost:4000/api
 
 ---
 
-# 🔐 8. Required Environment Variables
+# 🔐 9. Required Environment Variables
 
 ### Backend `.env`
 
@@ -293,7 +301,7 @@ REACT_APP_API_URL=http://localhost:4000/api
 
 ---
 
-# 📦 9. Deployment Instructions
+# 📦 10. Deployment Instructions
 
 ### Recommended Architecture
 
@@ -313,7 +321,7 @@ REACT_APP_API_URL=http://localhost:4000/api
 
 ---
 
-# 🧱 10. Next Steps to Productionize
+# 🧱 11. Next Steps to Productionize
 
 * Replace Admin Token with full OAuth app flow
 * Add background workers for periodic Shopify syncing
@@ -325,24 +333,8 @@ REACT_APP_API_URL=http://localhost:4000/api
 
 ---
 
-# 🎥 11. Demo Guide (For Reviewers)
 
-### Show in this order:
-
-1. Login → Tenant Selector
-2. Dashboard summary + charts
-3. Date range filtering
-4. CSV export
-5. Simulate order → metrics auto‑update
-6. Show multi‑tenant isolation (if 2nd tenant exists)
-7. Show code structure (backend / models / controllers)
-8. Show Postgres tables + ingested data
-
-This order demonstrates ingestion → storage → analytics end‑to‑end.
-
----
-
-# 📁 12. Project Structure
+# 📁 11. Project Structure
 
 ```
 root/
